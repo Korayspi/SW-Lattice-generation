@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: SW Lattice Generator
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Koray
+    family-names: Yavuz
+    email: yy.koray@gmail.com
+    orcid: 'https://orcid.org/0000-0003-1207-2602'
+repository-code: 'https://github.com/Korayspi/SW-Lattice-generation/'
+abstract: 'This code generates SW-Lattice, designed by Koray Yavuz.'
+license: CC-BY-SA-4.0
+version: '1.0'
+date-released: '2025-03-23'
